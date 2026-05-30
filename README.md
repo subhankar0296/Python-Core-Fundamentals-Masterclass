@@ -27,5 +27,4 @@ Simply click on the `python_core_fundamentals.ipynb` file above. GitHub will nat
 To download and run this interactive notebook on your host machine:
 
 1. **Clone this repository asset:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-core-fundamentals.git](https://github.com/YOUR_USERNAME/python-core-fundamentals.git)
+ git clone https://github.com/subhankar0296/Python-Core-Fundamentals-Masterclass.git
